@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_activity_advanced">AdvancedActivity</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
