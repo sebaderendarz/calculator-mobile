@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/layout/activity_advanced.xml" value="0.25416666666666665" />
+        <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/drawable/rect_rounded_button.xml" value="0.148" />
+        <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/layout/activity_advanced.xml" value="0.25" />
+        <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/layout/activity_basic.xml" value="0.25416666666666665" />
         <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/layout/activity_info.xml" value="0.25416666666666665" />
         <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
         <entry key="..\:/Coding/android-studio/PAM_SEM_6/Calculator/app/src/main/res/layout/fragment_dashboard.xml" value="0.25416666666666665" />

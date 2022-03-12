@@ -3,9 +3,9 @@ package com.example.calculator
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class InfoActivity : AppCompatActivity() {
+class AboutActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_info)
+        setContentView(R.layout.activity_about)
     }
 }

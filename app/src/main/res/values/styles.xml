@@ -26,4 +26,11 @@
         <item name="android:onClick">operationAction</item>
     </style>
 
+    <style name="buttonHome">
+        <item name="android:background">@drawable/rect_rounded_button</item>
+        <item name="android:layout_width">200sp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5sp</item>
+    </style>
+
 </resources>
