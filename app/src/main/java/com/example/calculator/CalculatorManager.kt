@@ -63,4 +63,12 @@ class CalculatorManager {
             expression = expression.subSequence(0, expression.length - 1).toString()
         result = ""
     }
+
+    fun setExpression(string: String) {
+        expression = string
+    }
+
+    fun setResult(string: String) {
+        result = string
+    }
 }
